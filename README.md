@@ -1,2 +1,3 @@
 # LeetCode-solutions
 This repository contains the LeetCode challenges I've solved from time to time. The folders "easy", "medium" and "hard" refer to the difficulty levels of the challenges, with each folder containing the code of the challenges corresponding to its name. Note that at the moment, only the folder "medium" contains some code, while the other folders are empty and ready to receive files when I complete challenges of the corresponding difficulty levels.
+Feel free to suggest changes on the comments section, or to suggest a challenge to solve. This will help me to improve my programming skills a lot. Thank you!
